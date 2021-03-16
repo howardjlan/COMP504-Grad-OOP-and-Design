@@ -1,0 +1,49 @@
+{
+  "fruit": [
+    {
+      "loc": [231,441],
+      "name": "cherries",
+      "color": "B",
+      "score": 100,
+      "size": 1,
+      "fruitType": 1,
+      "timeLeft": 0
+    },
+    {
+      "loc": [777,357],
+      "name": "strawberry",
+      "color": "B",
+      "score": 100,
+      "size": 1,
+      "fruitType": 2,
+      "timeLeft": 0
+    },
+    {
+      "loc": [525,147],
+      "name": "orange",
+      "color": "B",
+      "score": 100,
+      "size": 1,
+      "fruitType": 3,
+      "timeLeft": 0
+    },
+    {
+      "loc": [735,231],
+      "name": "apple",
+      "color": "B",
+      "score": 100,
+      "size": 1,
+      "fruitType": 4,
+      "timeLeft": 0
+    },
+    {
+      "loc": [315,63],
+      "name": "melon",
+      "color": "B",
+      "score": 100,
+      "size": 1,
+      "fruitType": 5,
+      "timeLeft": 0
+    }
+  ]
+}

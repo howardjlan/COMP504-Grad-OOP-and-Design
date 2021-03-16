@@ -1,0 +1,69 @@
+.score-text {
+    max-width: 80px;
+    min-width: 25px;
+    font-size: 20px;
+}
+
+.level-text {
+    max-width: 40px;
+    min-width: 25px;
+    font-size: 20px;
+}
+.body-color {
+    background: black;
+}
+.info-text {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.info-label {
+    width:150px;
+    float:left;
+}
+.info-loc {
+    float: left;
+    padding-left: 50px;
+    margin-top: 80px;
+    height: 100%;
+    width:15%;
+}
+.canvas-loc {
+    text-align: center;
+    margin-top: 75px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+}
+.notification-text{
+    display: inline-block;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+.btn-loc{
+    margin-left: 10px;
+}
+.btn-size {
+    width:200px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.alert-reg{
+    font-size: 12px;
+    font-family:Verdana;
+    font-weight: bold;
+    padding-bottom: 10px;
+    color:red;
+}
+
+.svg-btn {
+    border: none;
+    background: transparent;
+}
+
+.svg-btn:focus {
+    outline: none;
+}
+

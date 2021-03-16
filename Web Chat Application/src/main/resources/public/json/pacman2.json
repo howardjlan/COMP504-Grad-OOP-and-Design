@@ -1,0 +1,12 @@
+{
+  "pacman": [
+    {
+      "loc": [609,567],
+      "vel": [7,7],
+      "updateStrategy": "PacmanStrategy",
+      "collideStrategy": "EatStrategy",
+      "direction": 1,
+      "size": 13
+    }
+  ]
+}

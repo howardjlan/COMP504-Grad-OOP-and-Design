@@ -1,0 +1,52 @@
+{
+  "ghosts": [
+    {
+      "loc": [651,399],
+      "vel": [6,6],
+      "color": "red",
+      "updateStrategy": "AggressiveChase",
+      "collideStrategy": "EatStrategy",
+      "size": 14,
+      "isFlashing": false,
+      "isDead": false,
+      "flashingTimer": 0,
+      "direction": 2
+    },
+    {
+      "loc": [567,357],
+      "vel": [6,6],
+      "color": "blue",
+      "updateStrategy": "PatrolChase",
+      "collideStrategy": "EatStrategy",
+      "size": 14,
+      "isFlashing": false,
+      "isDead": false,
+      "flashingTimer": 0,
+      "direction": 3
+    },
+    {
+      "loc": [609,441],
+      "vel": [6,6],
+      "color": "orange",
+      "updateStrategy": "RandomWalk",
+      "collideStrategy": "EatStrategy",
+      "size": 14,
+      "isFlashing": false,
+      "isDead": false,
+      "flashingTimer": 0,
+      "direction": 4
+    },
+    {
+      "loc": [525,399],
+      "vel": [6,6],
+      "color": "pink",
+      "updateStrategy": "AmbushChase",
+      "collideStrategy": "EatStrategy",
+      "size": 14,
+      "isFlashing": false,
+      "isDead": false,
+      "flashingTimer": 0,
+      "direction": 1
+    }
+  ]
+}
