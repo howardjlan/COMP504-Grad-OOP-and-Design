@@ -8,4 +8,4 @@ Pac-Man Game
 https://pacman-team-zoomcoders.herokuapp.com/
 <br/>  
  
-<p><img src="Chat Web Application/images/chatapp1.png" width="600"></p>
+<p><img src="Web Chat Application/images/chatapp1.png" width="600"></p>
