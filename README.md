@@ -6,4 +6,6 @@ Alex Liapis • Yang Mi • Howard Lan • Minyu Jiang • Dingjia Li • Jiamin
 Pac-Man Game
 <br/>
 https://pacman-team-zoomcoders.herokuapp.com/
-<br/>
+<br/>  
+ 
+<p><img src="Chat Web Application/images/chatapp1.png" width="450"></p>
