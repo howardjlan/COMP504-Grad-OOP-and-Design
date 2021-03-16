@@ -8,12 +8,12 @@ Pac-Man Game
 https://pacman-team-zoomcoders.herokuapp.com/
 <br/>  
  
-<p><img src="Web Chat Application/images/pacman1.png" width="550"></p>
+<p><img src="Pac-Man Game/images/pacman1.png" width="550"></p>
   
-<p><img src="Web Chat Application/images/pacman2.png" width="550"></p>
+<p><img src="Pac-Man Game/images/pacman2.png" width="550"></p>
   
-<p><img src="Web Chat Application/images/pacman3.png" width="550"></p>
+<p><img src="Pac-Man Game/images/pacman3.png" width="550"></p>
    
-<p><img src="Web Chat Application/images/pacman4.png" width="550"></p>  
+<p><img src="Pac-Man Game/images/pacman4.png" width="550"></p>  
   
-<p><img src="Web Chat Application/images/pacman5.png" width="550"></p>  
+<p><img src="Pac-Man Game/images/pacman5.png" width="550"></p>  
