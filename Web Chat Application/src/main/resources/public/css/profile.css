@@ -1,0 +1,31 @@
+body {
+    padding-top: 3.5rem;
+}
+
+.interest-text {
+    padding: 8px;
+    border: 1px solid rgba(0, 123, 255, .2);
+}
+
+.interest-button {
+    padding: 8px;
+}
+
+.avatar {
+    width: 160px;
+    height: 160px;
+}
+
+.top-name {
+    height: 160px;
+    padding: 20px;
+}
+
+.expand-btn {
+    font-size: 20px;
+}
+
+
+.expand-btn:focus {
+    box-shadow: none;
+}

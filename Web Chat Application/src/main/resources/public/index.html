@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/index.js"></script>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="css/util.css">
+
+</head>
+<body>
+
+<div class="limiter">
+    <div class="container-login100">
+        <div class="wrap-login100 p-t-50 p-b-90">
+            <form class="login100-form validate-form flex-sb flex-w" method="post" id = "login-form" action="chatroom.html">
+					<span class="login100-form-title p-b-51">
+						Login
+					</span>
+                <div class="wrap-input100 validate-input m-b-16" >
+                    <input class="input100" type="text" name="username" id = "input-username"
+                           placeholder="Username">
+                    <span class="focus-input100"></span>
+                </div>
+                <div id="username-feedback" class="invalid-feedback alert-reg">
+                    Please provide a valid username.
+                </div>
+                <div class="wrap-input100 validate-input m-b-16" >
+                    <input class="input100" type="password" name="pass" id = "input-pwd"
+                           placeholder="Password">
+                    <span class="focus-input100"></span>
+                </div>
+                <div id="pwd-feedback1" class="invalid-feedback alert-reg">
+                    Please provide a valid password.
+                </div>
+                <div id="pwd-feedback2" class="invalid-feedback alert-reg">
+                    The password doesn't match with the username or the user is already logged in.
+                </div>
+                <div class="flex-sb-m w-full p-t-3 p-b-24">
+                    <div>
+                        <a href="register.html" class="txt1">
+                           Not a user? Sign up for an account.
+                        </a>
+                    </div>
+                </div>
+                <div class="container-login100-form-btn m-t-17">
+                    <button class="login100-form-btn" id = "btn-login" type = "submit">
+                        Login
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<div id="dropDownSelect1"></div>
+
+
+</body>
+</html>
