@@ -25,8 +25,8 @@ https://pacman-team-zoomcoders.herokuapp.com/
 http://chatapp-team-zoomcoders.herokuapp.com/
 <br/>  
   
-<p><img src="Web Chat Application/images/chatapp1.png" width="575"></p>  
-   
 <p><img src="Web Chat Application/images/chatapp2.png" width="575"></p>   
+  
+<p><img src="Web Chat Application/images/chatapp1.png" width="575"></p>   
   
 <p><img src="Web Chat Application/images/chatapp3.png" width="575"></p>   
